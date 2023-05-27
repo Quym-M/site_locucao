@@ -1475,9 +1475,9 @@
 	#header {
 		@include vendor('transition', 'background-color #{_duration(transitions)} ease');
 		background: _palette(bg);
-		height: 3em;
+		height: 8em;
 		left: 0;
-		line-height: 3em;
+		line-height: 8em;
 		position: fixed;
 		top: 0;
 		width: 100%;
